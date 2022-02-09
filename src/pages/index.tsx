@@ -9,6 +9,7 @@ import styles from "../styles/Home.module.css";
 const IndexPage: NextPage = () => {
   return (
     <div>
+      <div></div>
       <div className="mahdi"></div>
     </div>
   );
